@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:168:6:StartDefaultTask	8	static
+../Core/Src/freertos.c:210:6:Start_CAN_SendMessage	8	static
+../Core/Src/freertos.c:264:6:Start_AMMO_SendMessage	8	static
+../Core/Src/freertos.c:191:6:Start_IMU_Read	8	static
+../Core/Src/freertos.c:240:6:Start_Remote_RecieveMessage	8	static
+../Core/Src/freertos.c:114:6:MX_FREERTOS_Init	8	static
